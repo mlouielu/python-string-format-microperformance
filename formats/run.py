@@ -1,5 +1,5 @@
 import perf
-from benchmarks import BENCHS
+from formats.benchmarks import BENCHS
 
 
 def run():
